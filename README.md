@@ -1,6 +1,6 @@
 # Elliott Storey
 
-### Hi there 👋
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 Here are some ideas to get you started:
 
